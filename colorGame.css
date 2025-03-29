@@ -1,0 +1,51 @@
+body {
+	background-color: #232323;
+	margin: 0;
+}
+
+h1 {
+	margin: 0 auto;
+	background-color: #232323;
+	padding: 1%;
+	color: #fff; 
+	text-align: center;
+	font-family: "Avenir";
+	text-transform: uppercase;
+}
+
+#contain-middle {
+	display: flex;
+  	align-items: center;
+  	justify-content: center;
+	background-color: #fff;
+}
+
+.clicker {
+	font-family: monospace;
+	margin: 0em 11em 0em 11em;
+	font-size: 19px;
+	background-color: #232323;
+	color: #fff;
+	border: none;
+}
+
+#rgb-color {
+	font-size: 50px;
+}
+
+#container {
+	margin: 0 auto;
+	width: 50%;
+	height: 50%;
+	margin-top: 1.5%;
+}
+
+.square {
+	border-radius: 25px;
+	width: 30%;
+	background: red;
+	float: left;
+	padding-bottom: 30%;
+	margin: 1.66%;
+}
+

@@ -1,0 +1,21 @@
+body {
+	text-align: center;
+}
+
+#rgb_pic {
+	height: 250px;
+	width: 250px;
+}
+
+#rgb_col {
+	font-weight: bold;
+
+}
+
+#btn {
+	font-weight: bold;
+	font-size: 30px;
+	border-radius: 7em;
+	border-style: ridge;
+	border: inset;
+}
