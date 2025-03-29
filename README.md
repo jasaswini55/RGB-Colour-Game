@@ -1,4 +1,4 @@
-# RGB-Color-Game
+# RGB-Colour-Game
 
 A simple RGB Colour game to improve your RGB identification skills! 
 Every colour on the screen can be represented using an RGB colour (Red, Green, Blue) code. 
@@ -14,4 +14,4 @@ Using the RGB colour code we can identify 2^24 colours: that’s 16,777,216 uniq
 
 The player's task is to guess the colour in RGB form!
 Instructions are listed in web application as well.
-# RGB-Colour-Game
+
